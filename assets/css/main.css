@@ -1760,7 +1760,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.inner {
-				max-width: 90%;
+				max-width: 95%;
 			}
 
 		}
@@ -1768,7 +1768,7 @@
 		@media screen and (max-width: 480px) {
 
 			.inner {
-				max-width: 85%;
+				max-width: 95%;
 			}
 
 		}
@@ -1818,7 +1818,7 @@
 			}
 
 			section.wrapper.style1 h3, article.wrapper.style1 h3 {
-				color: #FFF;
+				color: #bacee6;
 			}
 
 		@media screen and (max-width: 980px) {
